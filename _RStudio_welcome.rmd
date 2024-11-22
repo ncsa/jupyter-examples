@@ -130,3 +130,11 @@ Saving your session's objects: save.image("my_workspace.RData")
 
 Use the `Plots` tab to export a plot as an image or PDF
 
+
+------------------------------------------------------------------------
+
+## Return to Control Panel
+
+To Return to the control panel, enter the following URL:
+
+`https://jupyter.ncsa.illinois.edu/hub/home`
