@@ -4,6 +4,14 @@ This document will help you get started with RStudio and its basic functionality
 
 ------------------------------------------------------------------------
 
+## Return to Control Panel
+
+To Return to the control panel, enter the following URL:
+
+`https://jupyter.ncsa.illinois.edu/hub/home`
+
+------------------------------------------------------------------------
+
 ## Getting Started
 
 ### Opening RStudio
@@ -132,9 +140,3 @@ Use the `Plots` tab to export a plot as an image or PDF
 
 
 ------------------------------------------------------------------------
-
-## Return to Control Panel
-
-To Return to the control panel, enter the following URL:
-
-`https://jupyter.ncsa.illinois.edu/hub/home`
