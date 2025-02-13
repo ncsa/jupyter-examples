@@ -4,9 +4,9 @@ This document will help you get started with RStudio and its basic functionality
 
 ------------------------------------------------------------------------
 
-## Return to Control Panel
+## Exit RStudio
 
-To Return to the control panel, enter the following URL:
+To exit RStudio and switch servers, enter the following URL:
 
 `https://jupyter.ncsa.illinois.edu/hub/home`
 
