@@ -6,7 +6,7 @@
 #
 # Usage:
 #   docker run --rm vscode:<tag> \
-#     bash tests/vscode/run_baseline_checks.sh
+#     bash tools/vscode/run_baseline_checks.sh
 #
 # The GPU check is informational: it is expected to fail on hosts/images
 # without a GPU attached and does not affect this script's overall exit code.

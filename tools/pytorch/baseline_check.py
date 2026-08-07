@@ -4,7 +4,7 @@
 Simulates a normal user session on the pytorch image, outside of a
 notebook. Usage:
 
-    python3 tests/pytorch/baseline_check.py
+    python3 tools/pytorch/baseline_check.py
 """
 
 import subprocess

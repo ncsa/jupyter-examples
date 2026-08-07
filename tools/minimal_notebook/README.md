@@ -6,7 +6,7 @@ normal user activity to catch regressions before the image ships.
 Run everything with:
 
 ```bash
-bash tests/minimal_notebook/run_baseline_checks.sh
+bash tools/minimal_notebook/run_baseline_checks.sh
 ```
 
 ## Checks

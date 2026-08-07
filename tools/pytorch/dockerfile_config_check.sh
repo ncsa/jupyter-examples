@@ -7,7 +7,7 @@
 # ISLP/nvitop), and the final non-root user.
 #
 # Usage:
-#   bash tests/pytorch/dockerfile_config_check.sh
+#   bash tools/pytorch/dockerfile_config_check.sh
 #
 set -uo pipefail
 

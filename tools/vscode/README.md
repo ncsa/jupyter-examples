@@ -6,7 +6,7 @@ normal user activity to catch regressions before the image ships.
 Run everything with:
 
 ```bash
-bash tests/vscode/run_baseline_checks.sh
+bash tools/vscode/run_baseline_checks.sh
 ```
 
 ## Checks

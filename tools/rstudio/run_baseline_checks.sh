@@ -11,7 +11,7 @@
 #
 # Usage:
 #   docker run --rm rstudio:<tag> \
-#     bash tests/rstudio/run_baseline_checks.sh
+#     bash tools/rstudio/run_baseline_checks.sh
 #
 # The GPU check is informational: it is expected to fail on hosts/images
 # without a GPU attached and does not affect this script's overall exit code.

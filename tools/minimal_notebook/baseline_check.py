@@ -4,7 +4,7 @@
 Simulates a normal user session on the minimal_notebook image, outside of a
 notebook. Usage:
 
-    python3 tests/minimal_notebook/baseline_check.py
+    python3 tools/minimal_notebook/baseline_check.py
 """
 
 import subprocess

@@ -7,7 +7,7 @@
 # non-root user.
 #
 # Usage:
-#   bash tests/vscode/dockerfile_config_check.sh
+#   bash tools/vscode/dockerfile_config_check.sh
 #
 set -uo pipefail
 

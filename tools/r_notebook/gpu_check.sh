@@ -8,7 +8,7 @@
 # see run_baseline_checks.sh for how it's excluded from the overall result.
 #
 # Usage:
-#   bash tests/r_notebook/gpu_check.sh
+#   bash tools/r_notebook/gpu_check.sh
 #
 # Exit codes:
 #   0 - nvidia-smi is present and reported GPU status successfully

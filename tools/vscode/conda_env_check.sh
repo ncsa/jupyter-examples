@@ -21,7 +21,7 @@
 # follows would be exercising the real, expected configuration.
 #
 # Usage:
-#   bash tests/vscode/conda_env_check.sh
+#   bash tools/vscode/conda_env_check.sh
 #
 set -uo pipefail
 

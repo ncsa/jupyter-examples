@@ -11,7 +11,7 @@ top of. There is no Python/pip/notebook check here.
 Run everything with:
 
 ```bash
-bash tests/rstudio/run_baseline_checks.sh
+bash tools/rstudio/run_baseline_checks.sh
 ```
 
 ## Checks

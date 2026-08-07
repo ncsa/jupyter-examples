@@ -4,7 +4,7 @@
 Simulates a normal user session on the r_notebook image, outside of a
 notebook. Usage:
 
-    python3 tests/r_notebook/baseline_check.py
+    python3 tools/r_notebook/baseline_check.py
 """
 
 import subprocess

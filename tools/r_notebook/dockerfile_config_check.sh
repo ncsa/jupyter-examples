@@ -6,7 +6,7 @@
 # non-root user the image runs as.
 #
 # Usage:
-#   bash tests/r_notebook/dockerfile_config_check.sh
+#   bash tools/r_notebook/dockerfile_config_check.sh
 #
 set -uo pipefail
 

@@ -13,7 +13,7 @@
 # preinstalls, so this exercises a genuine install-from-CRAN-source path
 # (build-essential/cmake toolchain) rather than one already satisfied.
 #
-#   Rscript tests/rstudio/baseline_check.R
+#   Rscript tools/rstudio/baseline_check.R
 #
 PACKAGES_TO_INSTALL <- c("moments", "fortunes")
 

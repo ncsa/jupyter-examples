@@ -8,7 +8,7 @@
 # see run_baseline_checks.sh for how it's excluded from the overall result.
 #
 # Usage:
-#   bash tests/vscode/gpu_check.sh
+#   bash tools/vscode/gpu_check.sh
 #
 # Exit codes:
 #   0 - nvidia-smi is present and reported GPU status successfully

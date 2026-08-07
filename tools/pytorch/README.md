@@ -6,7 +6,7 @@ normal user activity to catch regressions before the image ships.
 Run everything with:
 
 ```bash
-bash tests/pytorch/run_baseline_checks.sh
+bash tools/pytorch/run_baseline_checks.sh
 ```
 
 ## Checks

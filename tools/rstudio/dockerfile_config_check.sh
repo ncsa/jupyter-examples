@@ -10,7 +10,7 @@
 # integration that serves RStudio Server through Jupyter.
 #
 # Usage:
-#   bash tests/rstudio/dockerfile_config_check.sh
+#   bash tools/rstudio/dockerfile_config_check.sh
 #
 set -uo pipefail
 

@@ -21,7 +21,7 @@
 # follows would be exercising the real, expected configuration.
 #
 # Usage:
-#   bash tests/r_notebook/conda_env_check.sh
+#   bash tools/r_notebook/conda_env_check.sh
 #
 set -uo pipefail
 

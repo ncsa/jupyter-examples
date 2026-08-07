@@ -4,7 +4,7 @@
 Simulates a normal user session on the vscode image, outside of a
 notebook. Usage:
 
-    python3 tests/vscode/baseline_check.py
+    python3 tools/vscode/baseline_check.py
 """
 
 import subprocess

@@ -5,7 +5,7 @@
 #
 # Simulates a normal R user session on the r_notebook image. Usage:
 #
-#   Rscript tests/r_notebook/baseline_check.R
+#   Rscript tools/r_notebook/baseline_check.R
 #
 PACKAGES_TO_INSTALL <- c("moments", "fortunes")
 
