@@ -52,7 +52,7 @@ sys.exit(0 if 'vscode' in names else 1)
 VSCODE_SETUP_OUT=$(python3 -c "
 import vscode
 config = vscode.setup_vscode()
-assert len(config['command']) == 3
+assert len(config['command']) == 4
 assert config['port'] == 8080
 assert 'PASSWORD' in config['environment']
 print('ok')
