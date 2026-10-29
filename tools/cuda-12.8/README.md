@@ -27,6 +27,12 @@ jupyter nbconvert --to notebook --execute tools/cuda-12.8/cuda_compat_check.ipyn
   SASS for the GPU's architecture and as PTX only (JIT-compiled by the driver),
   and checks both produce correct results. The PTX build is expected to fail
   only under minor version compatibility, and the check accounts for that.
+  The check that `nvcc` accepts the image's default `gcc` is commented out
+  for now (reported as SKIP): CUDA 12.8 supports gcc 14 and older, the
+  image's `gcc` is newer, and the image's `nvcc` version will be changed at a
+  later date. Re-enable it then. Until then, when `gcc` is newer than 14 the
+  kernel builds use `-ccbin g++-14` (or 13/12) if one is installed, otherwise
+  `-allow-unsupported-compiler`, so the driver is still tested.
 - **PyTorch on the GPU**: cuBLAS matmul, cuDNN conv2d, cuFFT and cuRAND results
   are compared against the CPU, plus a short training loop.
 
